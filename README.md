@@ -44,7 +44,7 @@ Generar el body con el siguiente contenido:
 - Generar un párrafo destacado (pueden usar strong) que diga:
 “A continuación veremos algunos temas a tener en cuenta a la hora de crear una aplicación web.”
 
-- Luego un encabezado con <h1> que diga: Etiqueta h1
+- Luego un encabezado que diga: Etiqueta h1
 
 - Seguido de otro párrafo que diga: 
 “H1 es una etiqueta que sirve para colocar la frase que indica el título del contenido de una página web. Importante en este punto delimitar de forma clara la diferencia entre sitio web y página web: un título H1 debe hacer referencia a una página de tu sitio web, y no al sitio web en general.”
@@ -62,26 +62,26 @@ Generar el body con el siguiente contenido:
 
   6.	El titular H1 puede o no coincidir con la metaetiqueta title del documento HTML. La metaetiqueta Title tiene una importancia menor que el H1, y se muestra en los resultados de búsqueda, por lo que podemos optimizar más para SEO el H1, y redactar la metaetiqueta title de tal forma que esté más destinada a captar la atención de un humano”
 
-- Luego un encabezado con <h2> que diga: Etiqueta h2
+- Luego un encabezado que diga: Etiqueta h2
 
-- Seguido de un texto con la etiqueta <p> que diga:
+- Seguido de un texto con la etiqueta que diga:
 >La etiqueta H2 es un elemento similar al H1, que indica títulos de importancia para sub secciones del documento web actual. Por su naturaleza, puede haber varios H2 en un sitio, que indiquen los diferentes títulos de importancia de la pagina en la que nos encontramos. No debemos confundir los H2 con herramientas para colocar títulos en las zonas de nuestra página: "Últimas noticias", "Contactame",   "Zona de usuario", "Páginas amigas", "Bienvenido a mi web"… son títulos genéricos para bloques de una  web, pero que nada tienen que aportar al contenido. Además, de utilizar así los titulares H2 es muy   probable que fueran los mismos de una página a otra del sitio, y al igual que ocurría con los H1 es vital que sean diferentes, adaptados al contenido de cada documento. Los titulares H2 marcan las  diferentes secciones de un texto, los títulos de los nodos accesibles desde un listado de elementos,   etcétera. Su texto debe cumplir las mismas directrices que las dadas para el H1, pero sus palabras clave deben hacer referencia al texto que encontramos justo a continuación, o en la página a la que enlazan.  No existe un número determinado de elementos H2 que pueden colocarse en una página, pero el contenido  debe ser el que marque este requerimiento. Entre 2 y 8 titulares H2 son lo más adecuado, aunque pueden no aparecer o presentarse en un número mayor si la longitud del texto lo requiere.
 
-- Luego un encabezado con <h3> que diga: Etiqueta h3
+- Luego un encabezado que diga: Etiqueta h3
 
-- Seguido de un texto con la etiqueta <p> que diga:
+- Seguido de un texto con la etiqueta p que diga:
 >Las etiquetas H3 en adelante nos permiten definir títulos de subapartados de un bloque encabezado con un H2. Su incidencia en SEO es más limitada, y por ello no es habitual ni recomendable el trabajar los  titulares a partir de H4. El orden lógico de los titulares debería ser el que apareciera en primer lugar  el titular H1, después todos los H2 y después todos los H3. También es habitual el trabajar con H1, H2 y  H3 como títulos de capítulo, apartados y epígrafes, de forma que aparezca primero el titular H1, después  un H2 con sus sub apartados marcados con H3, después otro H2 y sus sub apartados, y así sucesivamente.
 
 - Realizar lo siguiente:
-  - un encabezado con <h4> que diga: Etiqueta h4
-  - un encabezado con <h5> que diga: Etiqueta h5
-  - un encabezado con <h6> que diga: Etiqueta h6
+  - un encabezado con h4 que diga: Etiqueta h4
+  - un encabezado con h5 que diga: Etiqueta h5
+  - un encabezado con h6 que diga: Etiqueta h6
 
 - Luego se debe generar un texto que diga lo siguiente
 
 <em> Etiqueta a </em>
 
-- Seguido de un texto con la etiqueta <p> que diga:
+- Seguido de un texto con la etiqueta p que diga:
 
 >La etiqueta "a" es uno de los elementos más importantes del lenguaje HTML, esta etiqueta sirve para convertir texto normal en hipertexto, es decir, sirve para crear enlaces (links). Con la etiqueta "a" pueden realizarse enlaces hacia documentos externos de cualquier tipo, generalmente es usada para definir enlaces hacia otras páginas web pero su uso es más amplio y no necesariamente se tiene que realizar un enlace hacia un documento externo, pues la etiqueta: a permite realizar enlaces internos dentro de un mismo documento, es decir, enlazar un texto hacia una parte especifica del mismo documento que lo incluye y de este modo poder navegar dentro del documento.
 
